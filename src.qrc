@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file alias="youyou_100">楼板娘1.png</file>
+        <file alias="youyou_80">楼板娘2.png</file>
+        <file alias="youyouIcon">Free-Converter.com-20171019203134-314795724.ico</file>
+    </qresource>
+</RCC>
